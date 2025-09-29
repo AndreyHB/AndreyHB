@@ -43,6 +43,9 @@
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="Python" />
   </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30px" alt="R" style="display:block; border:none;" />
+  </a>
 </p>
 <p>
   <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
@@ -60,8 +63,23 @@
   <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30px" alt="Postman" />
   </a>
+  <p>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="30px" alt="JetBrains" style="display:block; border:none;" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" alt="VSCode" style="display:block; border:none;" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30px" alt="Azure" style="display:block; border:none;" />
+  </a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="30px" alt="Heroku" style="display:block; border:none;" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" alt="Bootstrap" style="display:block; border:none;" />
+  </a>
 </p>
-
 
 
 
