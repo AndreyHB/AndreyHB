@@ -63,7 +63,6 @@
   <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30px" alt="Postman" />
   </a>
-  <p>
   <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="30px" alt="JetBrains" style="display:block; border:none;" />
   </a>
